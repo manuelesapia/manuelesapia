@@ -1,4 +1,4 @@
-👨‍💻 About me: Senior Frontend Developer with 7+ years of experience in the modern JavaScript stack, proficient in TypeScript, and React.js with a focus on user experience, accessibility, and performance. 
+👨‍💻 About me: Frontend Developer with 6+ years of experience in the modern JavaScript stack, proficient in TypeScript, and React.js with a focus on user experience, accessibility, and performance. 
 
 
 🚀 My personal motto: "Code with Purpose: Transforming Lines of Logic into Paths of Possibility."
