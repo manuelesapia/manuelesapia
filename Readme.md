@@ -5,10 +5,10 @@
 
 💻 Programming Languages: JavaScript, TypeScript
 
-🔧Technologies & Tools:React, React Hooks, Git, GitHub, Next.js, React Testing Library, Jest (unit testing), Cypress(end to end testing) Webpack, Storybook, RESTful APIs, HTML5, CSS3, SASS/SCSS, LESS, Styled-components, BEM methodologies, GitLab, DevOps, JIRA, AI Coding Tools (ChatGPT, GitHub Co-Pilot)
+🔧Technologies & Tools:React, React Hooks, Git, GitHub, React Testing Library, Jest (unit testing), Cypress(end to end testing) Webpack, RESTful APIs, HTML5, CSS3, SASS/SCSS, LESS, Styled-components, BEM methodologies, GitLab, DevOps, JIRA
 
 ☁️ Cloud: CI/CD, Git, Azure DevOps, Azure Platform, CDNs, CloudFlare, Docker,
 
 📊 Methodologies: SCRUM, Agile
 
-🌐 Interests: GraphQL, Web Performance, Cookies management, GA4 Tracking, Accessibility, Frontend architecture, Cloud Computing, Design Patterns, Microfrontend, AI.
+🌐 Interests: GraphQL, Web Performance, Cookies management, GA4 Tracking, Accessibility, Frontend architecture.
