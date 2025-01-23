@@ -5,7 +5,7 @@ Interested in scalable web architecture and cloud technologies, Certified in Mic
 
 💻 Programming Languages: JavaScript, TypeScript
 
-🔧Technologies & Tools:Vue 3 Option / Componistion API, Pinia State management, React, Git, GitHub, Jest (unit testing), Cypress(end to end testing) Webpack, RESTful APIs, HTML5, CSS3, SASS/SCSS, LESS, Vuetify, Styled-components, GitLab.
+🔧Technologies & Tools:Vue 3 Option / Composition API, Pinia State management, React, Git, GitHub, Jest (unit testing), Cypress(end to end testing) Webpack, RESTful APIs, HTML5, CSS3, SASS/SCSS, LESS, Vuetify, Styled-components, GitLab.
 
 ☁️ Cloud: CI/CD, Git, Azure DevOps, Azure Platform, CDNs, CloudFlare, Docker,
 
