@@ -1,14 +1,14 @@
-👨‍💻 About me: Frontend Developer with 6+ years of experience in the modern JavaScript stack, proficient in TypeScript, and React.js with a focus on user experience, accessibility, and performance. 
+👨‍💻 About me: Frontend Developer with 7+ years of experience in the modern JavaScript stack, proficient in Vue, React and TypeScript with a focus on user experience, accessibility, and performance. 
+Interested in scalable web architecture and cloud technologies, Certified in Microsoft Cloud Azure (AZ-900).
 
-
-🚀 My personal motto: "Code with Purpose: Transforming Lines of Logic into Paths of Possibility."
+🚀 My personal motto: "Write code as simple as possible"
 
 💻 Programming Languages: JavaScript, TypeScript
 
-🔧Technologies & Tools:React, React Hooks, Git, GitHub, React Testing Library, Jest (unit testing), Cypress(end to end testing) Webpack, RESTful APIs, HTML5, CSS3, SASS/SCSS, LESS, Styled-components, BEM methodologies, GitLab, DevOps, JIRA
+🔧Technologies & Tools:Vue 3 Option / Componistion API, Pinia State management, React, Git, GitHub, Jest (unit testing), Cypress(end to end testing) Webpack, RESTful APIs, HTML5, CSS3, SASS/SCSS, LESS, Vuetify, Styled-components, GitLab.
 
 ☁️ Cloud: CI/CD, Git, Azure DevOps, Azure Platform, CDNs, CloudFlare, Docker,
 
-📊 Methodologies: SCRUM, Agile
+📊 Methodologies: SCRUM, Agile with JIRA.
 
-🌐 Interests: GraphQL, Web Performance, Cookies management, GA4 Tracking, Accessibility, Frontend architecture.
+🌐 Interests: GraphQL, Web Performance, Frontend architecture, Cookies management, UI/UX, Web Accessibility. 
