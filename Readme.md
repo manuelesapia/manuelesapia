@@ -5,10 +5,10 @@ Interested in scalable web architecture and cloud technologies, Certified in Mic
 
 💻 Programming Languages: JavaScript, TypeScript
 
-🔧Technologies & Tools:Vue 3 Option / Composition API, Pinia State management, React, Git, GitHub, Jest (unit testing), Cypress(end to end testing) Webpack, RESTful APIs, HTML5, CSS3, SASS/SCSS, LESS, Vuetify, Styled-components, GitLab.
+🔧Technologies & Tools:Vue 3 Option / Composition API, React, Pinia State management,Git, GitHub, Jest (unit testing), Cypress(end to end testing) Webpack, Vite, Winston, Redis, , Redux, tanStack, Zunstand, AI tooling, RESTful APIs, HTML5, CSS3, SASS/SCSS, LESS, Vuetify, Styled-components, GitLab, storybook.
 
-☁️ Cloud: CI/CD, Git, CDNs, CloudFlare, Docker.
+☁️ Cloud: Azure/AWS. CI/CD, CDNs, CloudFlare, Docker.
 
-📊 Methodologies: SCRUM, Agile with JIRA.
+📊 Methodologies: SCRUM, Agile.
 
-🌐 Interests: GraphQL, Web Performance, Software architecture, UI/UX, Web Accessibility. 
+🌐 Interests: GraphQL, Web Performance, Software architecture, Microfrontends, Web Accessibility. 
